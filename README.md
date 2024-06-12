@@ -2,12 +2,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
-		a:link { color: #000080; so-language: zxx; text-decoration: underline }
-		a:visited { color: #800000; so-language: zxx; text-decoration: underline }
-	</style>
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p align="left" style="line-height: 100%; margin-bottom: 0cm">
 <font face="Calibri, sans-serif"><font size="4" style="font-size: 14pt"><b>SHLIBNET
