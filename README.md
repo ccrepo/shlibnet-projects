@@ -2,10 +2,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.4.7.2 (MacOSX)"/>
-	<meta name="created" content="2023-03-20T14:37:57.075377876"/>
-	<meta name="changed" content="2024-06-13T01:36:19.192353097"/>
 	<style type="text/css">
 		@page { size: 21cm 29.7cm; margin: 2cm }
 		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
